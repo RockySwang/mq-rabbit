@@ -26,5 +26,8 @@ repositories {
 
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter')
+	//config RabbinMQ 
+	compile("org.springframework.boot:spring-boot-starter-amqp")
+	
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
