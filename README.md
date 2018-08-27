@@ -5,7 +5,7 @@ Implementing the producer,message queue and consumer through by Rabbit.
 Stack:
 
 参考:
-简书-阿波罗程序猿     
+简书- https://www.jianshu.com/u/133cd6e8113a     
 spring boot 中使用 RabbitMQ 教程一 简单的生产者、队列、消费者
 https://www.jianshu.com/p/54300dced1d3   
 spring boot 中使用 RabbitMQ 教程二 work queue 使用多个消费者，消费队列中的消息（一对多）
